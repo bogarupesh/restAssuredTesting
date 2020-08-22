@@ -34,7 +34,7 @@ public class GetRequestTest {
 	
 	@Test
 	public void getRequest() throws JsonParseException, JsonMappingException{
-		
+	// Get request	
 		Reporter.log("Sending Get Request...");
 		Response response=GetRequest.getRequest(baseURI, requestUrl);
 		if(response.getStatusCode()==200){
