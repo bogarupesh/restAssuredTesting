@@ -1,7 +1,7 @@
 Below are the steps to run the project
 
 1.Clone the project into local by using below command
-https://github.com/bogarupesh/restAssuredTesting.git
+git clone https://github.com/bogarupesh/restAssuredTesting.git
 
 2. Make sure apache maven path is set in system path
 
